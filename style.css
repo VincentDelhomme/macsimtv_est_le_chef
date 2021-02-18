@@ -11,7 +11,7 @@
     overflow: hidden;
 }
 
-.header__container img {
+.header__container > img {
     position: absolute;
     object-fit: cover;
     width: 100%;
